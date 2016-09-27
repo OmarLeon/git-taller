@@ -4,7 +4,17 @@ hola hola hola!!!!
 
 hola holhola
 
+
 <<<<<<< HEAD
 puts "hola"
 
 vvvvvvvvvv
+=======
+cambios para dev2
+
+
+asodkaosdkoakso
+asdasdad
+asdasdad
+asdasd
+>>>>>>> dev2
