@@ -4,4 +4,8 @@ hola hola hola!!!!
 
 hola holhola
 
+<<<<<<< HEAD
 puts "hola como estas"
+=======
+cambios para dev2
+>>>>>>> dev2
